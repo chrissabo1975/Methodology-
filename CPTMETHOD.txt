@@ -1,0 +1,106 @@
+Methodology CPT
+
+Constitutive Process Theory: A Garfinkelian Methodology for Cross-Scale Analysis
+
+Author: Chris Sabo
+Independent Researcher
+GitHub Repository: https://github.com/chrissabo1975/Prime-move-theory
+Date: April 2024
+
+⸻
+
+Abstract
+
+This paper introduces Constitutive Process Theory (CPT)—a methodological framework that applies sociology’s most refined analytic tools (breaching experiments, reflexivity analysis, and self-fulfilling prophecy models) as probes for examining how ordered systems are constituted under conditions of stress, breakdown, or incomplete coordination. CPT begins with a recursively executed five-stage operator (Split → Tension → Failed Merge → Scar → Decay) identified in human sense-making and interaction.
+
+The framework demonstrates how this operator can be formally articulated within social systems and how similar process structures may plausibly be investigated in non-social domains such as geometry, computation, and physical modeling, without asserting equivalence or causal reduction. The core claim is methodological rather than ontological: sociology has developed unusually precise tools for making constitutive processes visible, and these tools may have broader analytic relevance when applied carefully and under explicit constraints.
+
+CPT therefore offers a disciplined approach to cross-domain inquiry grounded in sociological method, beginning with Garfinkelian breach and extending outward through cautious, testable application.
+
+⸻
+
+1. Introduction: Why Start with Sociology?
+
+Foundational theories in mathematics, physics, and philosophy typically begin with idealized formalisms: axioms, equations, or metaphysical primitives. This paper proposes an alternative starting point: to begin with methods that have already proven effective at revealing how order is actively produced and maintained, and to treat those methods as candidate tools for investigating constitution more generally.
+
+Sociology—particularly ethnomethodology, symbolic interactionism, and structural-functional analysis—has developed precise techniques for exposing the ordinarily invisible work through which social reality is stabilized. Harold Garfinkel’s breaching experiments, George Herbert Mead’s I/Me distinction, and Robert K. Merton’s model of self-fulfilling prophecies each isolate mechanisms by which order emerges, destabilizes, and reforms.
+
+The question guiding this paper is deliberately limited: what happens if these sociological tools are treated not as domain-bound explanations, but as abstract analytic probes for detecting constitutive processes?
+
+The answer developed here is Constitutive Process Theory, a framework organized around three methodological pillars:
+	1.	Breaching as Analytic Probe (Garfinkel) – Stress reveals structure.
+	2.	Reflexivity as First Distinction (Mead) – Meaning arises through recursive differentiation.
+	3.	Expectation Loops as Process Template (Merton) – Divergence between belief and structure generates patterned outcomes.
+
+When synthesized, these tools converge on a minimal five-stage operator that appears repeatedly in social systems under strain. This paper develops CPT as a methodological framework, not a finalized theory of reality. Subsequent work may explore its formalization and application beyond sociology.
+
+⸻
+
+2. The Three Methodological Knives
+
+2.1 Garfinkel’s Breaching: Making the Invisible Visible
+
+Garfinkel’s breaching experiments deliberately violate tacit norms—treating familiar interactions as literal, procedural, or adversarial. The result is not disorder, but intensified repair work. Participants attempt to restore intelligibility, revealing the background assumptions that ordinarily remain implicit.
+
+CPT translation: Breaching induces conditions analogous to Failed Merge, stressing a system’s coordination capacity until constitutive mechanisms surface. The analytic insight is not that norms exist, but that their maintenance follows patterned repair sequences. This logic suggests a general methodological principle: to observe how order is constituted, observe how it is repaired when it fails.
+
+⸻
+
+2.2 Mead’s I/Me: Distinction as the First Act
+
+Mead’s distinction between the “I” (spontaneous response) and the “Me” (internalized social order) describes a reflexive loop rather than a static dualism. Meaning arises through the recursive interaction of action and evaluation.
+
+CPT translation: The I/Me relation exemplifies Split as an analytic category—the emergence of distinction within a system that enables further processing. Rather than treating this as uniquely psychological, CPT treats it as a formal pattern of reflexive differentiation observable in social interaction.
+
+⸻
+
+2.3 Merton’s Self-Fulfilling Prophecy: Expectation as Process Driver
+
+Merton demonstrated how expectations, even when initially false, can generate feedback loops that reshape social reality. Divergence between belief and structure produces tension; coordination fails; new arrangements stabilize.
+
+CPT translation: Merton’s model maps cleanly onto the middle stages of the operator: Tension, Failed Merge, and Scar. Importantly, this is not treated as a metaphor but as a process model describing how informational load and expectation mismatch generate durable structural outcomes in social systems.
+
+⸻
+
+3. The Constitutive Operator: A Five-Stage Process Grammar
+
+Synthesizing these methodological tools yields a five-stage operator observable in social systems under stress:
+	1.	Split – A distinction emerges within an ordered context.
+	2.	Tension – Asymmetry or divergence builds between differentiated elements.
+	3.	Failed Merge – Complete reconciliation becomes impossible under existing constraints.
+	4.	Scar – Residual structure stabilizes as a new constraint or norm.
+	5.	Decay – The structure erodes, relaxes, or re-enters the process as a renewed distinction.
+
+Within this paper, the operator is treated as a process grammar for social constitution, not as a universal law. Its recurrence across social contexts motivates, but does not guarantee, broader applicability.
+
+⸻
+
+4. Methodological Implications and Programmatic Extension
+
+The contribution of CPT is not the claim that all systems operate identically, but that the same methodological approach used to reveal social constitution may be applicable elsewhere under appropriate constraints.
+
+Rather than asserting equivalence across domains, CPT proposes a disciplined extension strategy:
+	1.	Identify systems where structure becomes visible under breakdown or overload.
+	2.	Examine whether repair, residue, and re-stabilization follow comparable process stages.
+	3.	Treat similarities as hypotheses requiring independent validation.
+
+On this basis, CPT motivates further inquiry into formal systems (recursive geometry, computation), biological organization, and physical modeling—but only as programmatic directions, not settled conclusions.
+
+⸻
+
+5. Conclusion: A Method Before a Metaphysics
+
+Constitutive Process Theory advances a modest but consequential claim: sociology possesses some of the most refined tools available for detecting how order is constituted, and these tools can be formalized into a transferable methodological framework.
+
+By beginning with breach, reflexivity, and expectation failure, CPT reframes constitutive analysis as a study of process under stress rather than equilibrium description. Whether similar operators govern non-social domains remains an open question—one that must be addressed through careful extension, formal modeling, and empirical testing.
+
+All materials are provided openly to invite critique, replication, and refinement.
+
+⸻
+
+Code Availability
+
+All draft papers, datasets, and simulation code are available at:
+https://github.com/chrissabo1975/Prime-move-theory
+
+⸻
